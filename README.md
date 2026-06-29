@@ -21,15 +21,18 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -54,4 +57,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
