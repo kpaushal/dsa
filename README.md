@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
