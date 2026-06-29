@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kpaushal/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/kpaushal/dsa/tree/master/0283-move-zeroes) |
@@ -102,10 +104,19 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
