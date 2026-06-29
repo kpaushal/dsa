@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kpaushal/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
@@ -29,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/kpaushal/dsa/tree/master/0283-move-zeroes) |
@@ -36,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
