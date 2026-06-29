@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpaushal/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -34,6 +35,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpaushal/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpaushal/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
