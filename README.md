@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/kpaushal/dsa/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
