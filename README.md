@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kpaushal/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/kpaushal/dsa/tree/master/1108-defanging-an-ip-address) |
@@ -224,6 +225,7 @@
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
@@ -268,6 +270,7 @@
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kpaushal/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
