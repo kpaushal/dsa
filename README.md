@@ -42,6 +42,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kpaushal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kpaushal/dsa/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kpaushal/dsa/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kpaushal/dsa/tree/master/0125-valid-palindrome) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kpaushal/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kpaushal/dsa/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kpaushal/dsa/tree/master/0168-excel-sheet-column-title) |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
