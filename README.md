@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
+| [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
@@ -169,6 +170,7 @@
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/kpaushal/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
@@ -251,6 +253,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
@@ -357,6 +360,7 @@
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kpaushal/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
