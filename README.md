@@ -64,6 +64,7 @@
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/kpaushal/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/kpaushal/dsa/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -220,6 +221,7 @@
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/kpaushal/dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
