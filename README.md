@@ -38,6 +38,7 @@
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
+| [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kpaushal/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/kpaushal/dsa/tree/master/1108-defanging-an-ip-address) |
@@ -151,6 +153,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kpaushal/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 ## Binary Tree
 |  |
 | ------- |
