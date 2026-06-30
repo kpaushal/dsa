@@ -249,6 +249,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,8 +354,13 @@
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
