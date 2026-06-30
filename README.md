@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kpaushal/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kpaushal/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
