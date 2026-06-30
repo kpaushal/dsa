@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
@@ -105,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kpaushal/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
@@ -124,6 +126,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -156,6 +160,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +225,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
