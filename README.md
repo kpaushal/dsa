@@ -150,6 +150,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kpaushal/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kpaushal/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kpaushal/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kpaushal/dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
@@ -241,6 +242,7 @@
 | [0002-add-two-numbers](https://github.com/kpaushal/dsa/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kpaushal/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
