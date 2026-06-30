@@ -127,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -172,10 +173,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
