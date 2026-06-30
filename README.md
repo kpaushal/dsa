@@ -136,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -171,4 +172,13 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
+| [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
