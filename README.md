@@ -227,6 +227,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kpaushal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/kpaushal/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
@@ -246,6 +247,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kpaushal/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -353,6 +355,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kpaushal/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
