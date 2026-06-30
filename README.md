@@ -124,6 +124,7 @@
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kpaushal/dsa/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kpaushal/dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
@@ -149,6 +150,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kpaushal/dsa/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
@@ -308,4 +310,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
