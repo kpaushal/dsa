@@ -90,6 +90,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/kpaushal/dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -147,6 +148,7 @@
 | ------- |
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kpaushal/dsa/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kpaushal/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kpaushal/dsa/tree/master/0779-k-th-symbol-in-grammar) |
