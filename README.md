@@ -39,6 +39,7 @@
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kpaushal/dsa/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kpaushal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kpaushal/dsa/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kpaushal/dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kpaushal/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/kpaushal/dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kpaushal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kpaushal/dsa/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kpaushal/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
