@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kpaushal/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/kpaushal/dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kpaushal/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kpaushal/dsa/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
