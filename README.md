@@ -221,6 +221,7 @@
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/kpaushal/dsa/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/kpaushal/dsa/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -315,6 +316,7 @@
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/kpaushal/dsa/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kpaushal/dsa/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/kpaushal/dsa/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kpaushal/dsa/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kpaushal/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/kpaushal/dsa/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 ## Binary Tree
 |  |
