@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
+| [0560-subarray-sum-equals-k](https://github.com/kpaushal/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kpaushal/dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kpaushal/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -163,6 +165,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kpaushal/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [1345-jump-game-iv](https://github.com/kpaushal/dsa/tree/master/1345-jump-game-iv) |
