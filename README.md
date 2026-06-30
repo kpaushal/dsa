@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kpaushal/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kpaushal/dsa/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kpaushal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kpaushal/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kpaushal/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kpaushal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
@@ -273,6 +275,7 @@
 | [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kpaushal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kpaushal/dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kpaushal/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kpaushal/dsa/tree/master/0171-excel-sheet-column-number) |
