@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kpaushal/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kpaushal/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kpaushal/dsa/tree/master/0238-product-of-array-except-self) |
@@ -200,6 +201,7 @@
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kpaushal/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/kpaushal/dsa/tree/master/0263-ugly-number) |
@@ -233,4 +235,12 @@
 | [0022-generate-parentheses](https://github.com/kpaushal/dsa/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kpaushal/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kpaushal/dsa/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
