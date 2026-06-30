@@ -167,6 +167,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0460-lfu-cache](https://github.com/kpaushal/dsa/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/kpaushal/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
@@ -195,6 +196,7 @@
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/kpaushal/dsa/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/kpaushal/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
@@ -394,12 +396,14 @@
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kpaushal/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/kpaushal/dsa/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/kpaushal/dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/kpaushal/dsa/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
