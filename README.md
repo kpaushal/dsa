@@ -34,6 +34,7 @@
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -100,6 +101,7 @@
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kpaushal/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,12 +227,14 @@
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/kpaushal/dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 ## Queue
 |  |
 | ------- |
