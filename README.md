@@ -151,6 +151,7 @@
 | [0191-number-of-1-bits](https://github.com/kpaushal/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kpaushal/dsa/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kpaushal/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
@@ -163,6 +164,7 @@
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/kpaushal/dsa/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
