@@ -41,6 +41,7 @@
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kpaushal/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -342,6 +343,7 @@
 | [0279-perfect-squares](https://github.com/kpaushal/dsa/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kpaushal/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,4 +391,5 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kpaushal/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
