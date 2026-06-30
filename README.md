@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/kpaushal/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -124,6 +125,7 @@
 | [0268-missing-number](https://github.com/kpaushal/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kpaushal/dsa/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kpaushal/dsa/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kpaushal/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kpaushal/dsa/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
