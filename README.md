@@ -123,6 +123,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kpaushal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/kpaushal/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kpaushal/dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kpaushal/dsa/tree/master/0166-fraction-to-recurring-decimal) |
@@ -149,6 +150,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kpaushal/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/kpaushal/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kpaushal/dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
