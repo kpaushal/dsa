@@ -51,6 +51,7 @@
 | [0168-excel-sheet-column-title](https://github.com/kpaushal/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kpaushal/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/kpaushal/dsa/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
@@ -213,6 +216,7 @@
 | [0171-excel-sheet-column-number](https://github.com/kpaushal/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kpaushal/dsa/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/kpaushal/dsa/tree/master/0263-ugly-number) |
