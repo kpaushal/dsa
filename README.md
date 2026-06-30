@@ -42,6 +42,7 @@
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kpaushal/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1345-jump-game-iv](https://github.com/kpaushal/dsa/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -156,6 +157,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/kpaushal/dsa/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
+| [1345-jump-game-iv](https://github.com/kpaushal/dsa/tree/master/1345-jump-game-iv) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kpaushal/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1345-jump-game-iv](https://github.com/kpaushal/dsa/tree/master/1345-jump-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
