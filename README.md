@@ -202,6 +202,7 @@
 | [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/kpaushal/dsa/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kpaushal/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
