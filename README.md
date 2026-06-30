@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
+| [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -215,6 +216,7 @@
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
