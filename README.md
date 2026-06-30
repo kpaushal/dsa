@@ -179,11 +179,13 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
