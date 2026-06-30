@@ -227,6 +227,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kpaushal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
@@ -245,6 +246,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kpaushal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -350,6 +352,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kpaushal/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kpaushal/dsa/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/kpaushal/dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
