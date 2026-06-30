@@ -37,6 +37,7 @@
 | [0014-longest-common-prefix](https://github.com/kpaushal/dsa/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/kpaushal/dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kpaushal/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpaushal/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpaushal/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kpaushal/dsa/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
