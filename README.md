@@ -58,6 +58,7 @@
 | [0075-sort-colors](https://github.com/kpaushal/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kpaushal/dsa/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kpaushal/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kpaushal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kpaushal/dsa/tree/master/0344-reverse-string) |
@@ -100,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kpaushal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kpaushal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kpaushal/dsa/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kpaushal/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kpaushal/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +196,7 @@
 | [0009-palindrome-number](https://github.com/kpaushal/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kpaushal/dsa/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/kpaushal/dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/kpaushal/dsa/tree/master/0509-fibonacci-number) |
