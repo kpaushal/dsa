@@ -40,6 +40,7 @@
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
+| [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kpaushal/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -340,6 +341,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kpaushal/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/kpaushal/dsa/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/kpaushal/dsa/tree/master/0752-open-the-lock) |
+| [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kpaushal/dsa/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/kpaushal/dsa/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
