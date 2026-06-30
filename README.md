@@ -33,6 +33,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kpaushal/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kpaushal/dsa/tree/master/0477-total-hamming-distance) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kpaushal/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -227,6 +228,7 @@
 | [0234-palindrome-linked-list](https://github.com/kpaushal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kpaushal/dsa/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kpaushal/dsa/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/kpaushal/dsa/tree/master/0853-car-fleet) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kpaushal/dsa/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/kpaushal/dsa/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kpaushal/dsa/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kpaushal/dsa/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
