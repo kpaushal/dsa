@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpaushal/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kpaushal/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kpaushal/dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kpaushal/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kpaushal/dsa/tree/master/0242-valid-anagram) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kpaushal/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kpaushal/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kpaushal/dsa/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
@@ -120,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kpaushal/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kpaushal/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kpaushal/dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kpaushal/dsa/tree/master/0152-maximum-product-subarray) |
