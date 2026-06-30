@@ -141,6 +141,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kpaushal/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kpaushal/dsa/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kpaushal/dsa/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/kpaushal/dsa/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/kpaushal/dsa/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kpaushal/dsa/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kpaushal/dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kpaushal/dsa/tree/master/0233-number-of-digit-one) |
